@@ -5,7 +5,8 @@ import (
 	"log"
 	"time"
 
-	pb "github.com/SergeiPonomarev/Study/Project_2"
+	pb "Go_Project/Study/Mailer"
+
 	"google.golang.org/grpc"
 )
 
