@@ -24,4 +24,4 @@ message MsgReply {
     bool sent = 1;
 }
 
-option go_package = "C:/Go_Project/Project_2";
+option go_package = "C:/Go_Project/Project_2/mailer";
