@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	pb "https://git.spbec-mining.ru/ponomarev/studying"
+	pb "github.com/SergeiPonomarev/Study"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )
